@@ -135,7 +135,7 @@ export default e => {
     }
     
     {
-      let u2 = `${baseUrl}AnyConv.com__AK47.glb`;
+      let u2 = `${baseUrl}Colt_Anaconda.glb`;
       if (/^https?:/.test(u2)) {
         u2 = '/@proxy/' + u2;
       }
@@ -171,8 +171,8 @@ export default e => {
           "value": {
             "boneAttachment": "leftHand",
             "position": [-0.04, -0.03, -0.01],
-            "quaternion": [0, 0, 0, 0],
-            "scale": [0.01, 0.01, 0.01]
+            "quaternion": [0.5, -0.5, -0.5, 0.5],
+            "scale": [1, 1, 1]
           }
         },
         {
