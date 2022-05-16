@@ -171,7 +171,7 @@ export default e => {
           "value": {
             "boneAttachment": "leftHand",
             "position": [-0.04, -0.03, -0.01],
-            "quaternion": [0.5, -0.5, -0.5, 0.5],
+            "quaternion": [0, 0, 0, 0],
             "scale": [0.01, 0.01, 0.01]
           }
         },
