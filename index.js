@@ -170,9 +170,9 @@ export default e => {
           "key": "wear",
           "value": {
             "boneAttachment": "leftHand",
-            "position": [-0.04, -0.03, -0.01],
+            "position": [0, 0., 0],
             "quaternion": [0.5, -0.5, -0.5, 0.5],
-            "scale": [1, 1, 1]
+            "scale": [0.01, 0.01, 0.01]
           }
         },
         {
