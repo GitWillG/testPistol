@@ -135,7 +135,7 @@ export default e => {
     }
     
     {
-      let u2 = `${baseUrl}AnyConv.com__AK47.glb;
+      let u2 = `${baseUrl}Colt_Anaconda.glb;
       if (/^https?:/.test(u2)) {
         u2 = '/@proxy/' + u2;
       }
